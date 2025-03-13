@@ -167,5 +167,5 @@ El proyecto incluye pruebas unitarias para validar la inserción de datos en SQL
    ```
 
 ## 📬 Contacto
-Para consultas o sugerencias, contáctame en [TuCorreo@ejemplo.com](mailto:TuCorreo@ejemplo.com).
+Para consultas o sugerencias, contáctame en [emmanuel.cmora20@gmail.com](mailto:emmanuel.cmora20@gmail.com).
 """
