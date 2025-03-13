@@ -49,7 +49,7 @@ Este proyecto implementa una automatización en PowerShell para obtener un **inv
 
 1. **Clona este repositorio:**
    ```sh
-   git clone https://github.com/tuusuario/AD_Inventory.git
+   git clone https://github.com/emmacm20-lab/AD_Inventory.git
    ```
 2. **Ejecuta el script de recopilación de datos:**
    ```powershell
@@ -96,7 +96,7 @@ El proyecto incluye pruebas unitarias para validar la inserción de datos en SQL
    ```
 
 ## 📬 Contacto
-Para consultas o sugerencias, contáctame en [TuCorreo@ejemplo.com](mailto:TuCorreo@ejemplo.com).
+Para consultas o sugerencias, contáctame en [emmanuel.cmora20@gmail.com](mailto:emmanuel.cmora20@gmail.com).
 """
 
 # 📂 src/collect_ad_data.ps1 - Obtiene información de Active Directory
